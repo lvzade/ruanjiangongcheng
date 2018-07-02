@@ -2,4 +2,8 @@
 2
 333333333 this is dev
 
+<<<<<<< HEAD
 master
+=======
+dev
+>>>>>>> dev
